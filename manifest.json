@@ -1,0 +1,11 @@
+{
+  "apiVersion": 1,
+  "id": "offline-plans",
+  "name": "Offline plans",
+  "version": "0.2.1",
+  "minAppVersion": "0.6.1",
+  "description": "Prepare lessons from a teaching plan and study them offline.",
+  "main": "main.js",
+  "backend": "backend.cjs",
+  "styles": "styles.css"
+}
